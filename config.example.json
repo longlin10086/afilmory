@@ -1,13 +1,13 @@
 {
-  "name": "Innei's Afilmory",
-  "title": "Innei's Afilmory",
+  "name": "longlin's Photo Gallery",
+  "title": "longlin's Photo Gallery",
   "description": "Capturing beautiful moments in life, documenting daily warmth and emotions through my lens.",
-  "url": "https://afilmory.innei.in/",
+  "url": "https://photo.longlin.tech/",
   "accentColor": "#007bff",
   "author": {
-    "name": "Innei",
-    "url": "https://innei.in/",
-    "avatar": "https://cdn.jsdelivr.net/gh/Innei/static@master/avatar.png"
+    "name": "longlin",
+    "url": "https://blog.longlin.tech/",
+    "avatar": "https://mzk.longlin.tech/avatar_remu.jpg"
   },
   "social": {
     "github": "",
